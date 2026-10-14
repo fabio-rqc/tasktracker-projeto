@@ -16,7 +16,7 @@ PRIORIDADES_VALIDAS = {
 }
 
 
-def ler_titulo()
+def ler_titulo():
     """Pede o título até o usuário digitar algo válido (não vazio)."""
     while True:
         titulo = input("Título da tarefa: ").strip()
