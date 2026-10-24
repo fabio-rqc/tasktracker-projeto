@@ -41,7 +41,7 @@ Pré-requisito: ter o [Docker](https://www.docker.com/products/docker-desktop/) 
 Clone o repositório e entre na pasta:
 
 ```
-git clone https://github.com/SEU-USUARIO/tasktracker-projeto.git
+git clone https://github.com/fabio-rqc/tasktracker-projeto.git
 cd tasktracker-projeto
 ```
 
